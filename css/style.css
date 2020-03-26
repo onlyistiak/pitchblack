@@ -1,0 +1,68 @@
+body{
+	background-color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+img.logo {
+    max-width: 100%;
+    width: 46%;
+    display: block;
+    padding-top: 8%;
+    margin: 0 auto;
+    padding-right: 15px;
+}
+.logo-head{
+	padding-top: 21%;
+    color: #908a87;
+    font-size: 23px;
+    text-align: center;
+}
+
+.logo-para {
+    color: #908a87;
+    font-size: 13px;
+    text-align: center;
+}
+.banner {
+    box-shadow: inset 0px 0px 10px 22px black;
+    background: url(../img/banner2.jpg);
+    height: 769px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bnr {
+    background: rgba(0, 0, 0, 0.5)!important;
+    height: 769px;
+}
+h2.contact {
+    color: silver;
+    text-decoration: underline;
+    font-size: 33px;
+    margin-top: -47px;
+    padding-bottom: 10px;
+}
+
+
+
+.foot-point p {
+    font-size: 17.5px;
+    color: silver;
+    margin-bottom: 0px;
+    line-height: 28px;
+}
+img.flag {
+    max-width: 100%;
+    width: 11%;
+}
+
+.footttt{
+	padding-bottom: .5%;
+}
+
+p.foooot {
+    font-size: 14px!important;
+    padding-top: 10%;
+}
